@@ -6,6 +6,7 @@ Before running the project, you have to install some useful packages.
    pip install streamlit nltk langdetect translate
 
 The download will begin to start.
+
 2.  Open CMD, type python
   then type the following:
   import nltk
